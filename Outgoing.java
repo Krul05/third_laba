@@ -1,2 +1,3 @@
-package PACKAGE_NAME;public interface Outgoing {
+public interface Outgoing {
+    public void outgoing_action();
 }

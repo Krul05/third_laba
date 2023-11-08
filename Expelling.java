@@ -1,2 +1,3 @@
-package PACKAGE_NAME;public interface Expelling {
+public interface Expelling {
+    public void expelling_action(String name);
 }

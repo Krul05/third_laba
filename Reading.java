@@ -1,2 +1,3 @@
-package PACKAGE_NAME;public class Reading {
+public interface Reading {
+    public void reading_action(Characters sender);
 }

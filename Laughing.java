@@ -1,2 +1,3 @@
-package PACKAGE_NAME;public interface Laughing {
+public interface Laughing {
+    public void laughing_action();
 }

@@ -1,2 +1,3 @@
-package PACKAGE_NAME;public interface Flying {
+public interface Flying {
+    public void flying_action();
 }
